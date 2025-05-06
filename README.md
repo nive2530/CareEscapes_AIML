@@ -1,3 +1,1 @@
 # CareEscapes_AIML
-
-.
